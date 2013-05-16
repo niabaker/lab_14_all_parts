@@ -57,3 +57,6 @@ How many people? > 200
 How much did it cost? > 950
 You should probably tip $190.0!
 """
+
+
+print( 'IT\'S 8:27pm...it\'s not worth it)
